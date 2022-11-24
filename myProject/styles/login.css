@@ -1,0 +1,21 @@
+body{
+    background: url("../images/login.png");
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    gap: 3rem; 
+    flex-direction: row;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 1.5rem;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 30vw;
+    background: url("../images/right-img.png");
+}
